@@ -1,6 +1,6 @@
 # Lever Jobs API: how to list every posting from any Lever job board (jobs.lever.co) as JSON
 
-Lever publishes a **public postings API** for every company that hosts its jobs on `jobs.lever.co`. No key, no login. This repository documents the endpoint, the response fields, the `skip`/`limit` pagination and ships a dependency-free Python example.
+Lever publishes a **public postings API** for every company that hosts its jobs on `jobs.lever.co`. No key, no login. This guide documents the endpoint, the response fields, the `skip`/`limit` pagination and ships a dependency-free Python example.
 
 ## The endpoint
 
